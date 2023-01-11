@@ -1,2 +1,2 @@
 # CPEN21A-PLD-1-2
-Thhis is my repository for CPEN21A
+This is my repository for CPEN21A
